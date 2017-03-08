@@ -1,0 +1,8 @@
+﻿  GroundTruthVerification.cpp
+GroundTruthVerification.cpp(43): warning C4101: 'cr' : unreferenced local variable
+GroundTruthVerification.cpp(43): warning C4101: 'cb' : unreferenced local variable
+GroundTruthVerification.cpp(111): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+GroundTruthVerification.cpp(112): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  GroundTruthVerification.vcxproj -> C:\Users\Henry\Desktop\GroundTruthVerification\Release\GroundTruthVerification.exe
